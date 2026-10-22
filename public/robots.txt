@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /account
+Disallow: /cart
+Disallow: /favorites
+Disallow: /notifications
+Disallow: /orders
+Disallow: /checkout/
+Disallow: /auth
+Disallow: /support
+
+Sitemap: https://ishtraki.store/sitemap.xml

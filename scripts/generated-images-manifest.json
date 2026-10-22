@@ -1,0 +1,146 @@
+[
+  {
+    "key": "netflix",
+    "name": "Netflix Premium",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Netflix Premium. High-end consistent editorial 3D product mockup on a pearlescent silver studio surface, scarlet red and black accents, a glossy red N dimensional streaming tile, cinematic silver studio, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Netflix Premium\" in the upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only, not the target composition. Keep all text well inside 10% safe margins. Service symbol and service name are dominant; shop logo is small. No price, no duration, no fake badges, no buttons, no screenshot UI, no extra text. Premium realistic materials, crisp and readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/netflix-v1.webp"
+  },
+  {
+    "key": "youtube",
+    "name": "YouTube Premium",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: YouTube Premium. High-end consistent editorial 3D product mockup on a pearlescent silver studio surface, white silver and red accents, a rounded white ceramic tile carrying the red YouTube play symbol, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"YouTube Premium\" in the upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only, not the target composition. Keep all text well inside 10% safe margins. Service symbol and service name are dominant; shop logo is small. No price, no duration, no fake badges, no buttons, no screenshot UI, no extra text. Premium realistic materials, crisp and readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/youtube-v1.webp"
+  },
+  {
+    "key": "spotify",
+    "name": "Spotify Premium",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Spotify Premium. High-end consistent editorial 3D product mockup on a pearlescent silver studio surface, mint green and dark emerald accents, an emerald green rounded tile with Spotify sound-wave symbol, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Spotify Premium\" in the upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only, not the target composition. Keep all text well inside 10% safe margins. Service symbol and service name are dominant; shop logo is small. No price, no duration, no fake badges, no buttons, no screenshot UI, no extra text. Premium realistic materials, crisp and readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/spotify-v1.webp"
+  },
+  {
+    "key": "shahid",
+    "name": "Shahid VIP",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Shahid VIP. High-end consistent editorial 3D product mockup on a pearlescent silver studio surface, mint cyan and deep green accents, a luminous mint rounded tile carrying the Shahid Arabic brand mark, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Shahid VIP\" in the upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only, not the target composition. Keep all text well inside 10% safe margins. Service symbol and service name are dominant; shop logo is small. No price, no duration, no fake badges, no buttons, no screenshot UI, no extra text. Premium realistic materials, crisp and readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/shahid-v1.webp"
+  },
+  {
+    "key": "lovable",
+    "name": "Lovable Pro",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Lovable Pro. High-end consistent editorial 3D product mockup on a pearlescent silver studio surface, coral orange and violet accents, a polished gradient heart app tile and creative coding light, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Lovable Pro\" in the upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only, not the target composition. Keep all text well inside 10% safe margins. Service symbol and service name are dominant; shop logo is small. No price, no duration, no fake badges, no buttons, no screenshot UI, no extra text. Premium realistic materials, crisp and readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/lovable-v1.webp"
+  },
+  {
+    "key": "linkedin",
+    "name": "LinkedIn Premium",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: LinkedIn Premium. High-end consistent editorial 3D product mockup on a pearlescent silver studio surface, linkedin blue and silver accents, a premium blue tile with the white in brand symbol, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"LinkedIn Premium\" in the upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only, not the target composition. Keep all text well inside 10% safe margins. Service symbol and service name are dominant; shop logo is small. No price, no duration, no fake badges, no buttons, no screenshot UI, no extra text. Premium realistic materials, crisp and readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/linkedin-v1.webp"
+  },
+  {
+    "key": "expressvpn",
+    "name": "ExpressVPN",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: ExpressVPN. High-end editorial 3D product mockup on a pearlescent silver studio surface, red and cream accents, a red glossy shield tile with ExpressVPN curved white monogram, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"ExpressVPN\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/expressvpn-v1.webp"
+  },
+  {
+    "key": "prime",
+    "name": "Prime Video",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Prime Video. High-end editorial 3D product mockup on a pearlescent silver studio surface, sky blue cyan accents, a cyan streaming tile with Amazon Prime Video smile arrow, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Prime Video\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/prime-v1.webp"
+  },
+  {
+    "key": "crunchyroll",
+    "name": "Crunchyroll",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Crunchyroll. High-end editorial 3D product mockup on a pearlescent silver studio surface, bright orange white accents, an orange rounded tile with Crunchyroll white circular symbol, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Crunchyroll\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/crunchyroll-v1.webp"
+  },
+  {
+    "key": "icloud",
+    "name": "iCloud+",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: iCloud+. High-end editorial 3D product mockup on a pearlescent silver studio surface, sky blue white accents, a translucent glass tile carrying a luminous blue cloud, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"iCloud+\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/icloud-v1.webp"
+  },
+  {
+    "key": "snapchat",
+    "name": "Snapchat+",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Snapchat+. High-end editorial 3D product mockup on a pearlescent silver studio surface, yellow black accents, a yellow rounded app tile with the white Snapchat ghost symbol, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Snapchat+\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/snapchat-v1.webp"
+  },
+  {
+    "key": "discord",
+    "name": "Discord Nitro",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Discord Nitro. High-end editorial 3D product mockup on a pearlescent silver studio surface, periwinkle purple accents, a periwinkle app tile with white Discord gamepad-face symbol, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Discord Nitro\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/discord-v1.webp"
+  },
+  {
+    "key": "xbox",
+    "name": "Xbox Game Pass",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Xbox Game Pass. High-end editorial 3D product mockup on a pearlescent silver studio surface, emerald green white accents, an emerald green game tile with the white Xbox sphere symbol and a small sculptural controller, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Xbox Game Pass\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/xbox-v1.webp"
+  },
+  {
+    "key": "microsoft",
+    "name": "Microsoft 365",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Microsoft 365. High-end editorial 3D product mockup on a pearlescent silver studio surface, orange blue green yellow accents, a white frosted tile carrying the four-color Microsoft window, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Microsoft 365\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/microsoft-v1.webp"
+  },
+  {
+    "key": "applemusic",
+    "name": "Apple Music",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Apple Music. High-end editorial 3D product mockup on a pearlescent silver studio surface, pink red and white accents, a red-pink glossy tile with a white musical note, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Apple Music\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/applemusic-v1.webp"
+  },
+  {
+    "key": "canva",
+    "name": "Canva Pro",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Canva Pro. High-end editorial 3D product mockup on a pearlescent silver studio surface, turquoise violet accents, a glossy cyan-purple tile carrying the flowing white Canva script, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Canva Pro\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/canva-v1.webp"
+  },
+  {
+    "key": "chatgpt",
+    "name": "ChatGPT Plus",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: ChatGPT Plus. High-end editorial 3D product mockup on a pearlescent silver studio surface, mint emerald accents, a frosted mint tile carrying the dark OpenAI interlocking knot, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"ChatGPT Plus\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/chatgpt-v1.webp"
+  },
+  {
+    "key": "watchit",
+    "name": "WATCH IT",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: WATCH IT. High-end editorial 3D product mockup on a pearlescent silver studio surface, crimson charcoal accents, a charcoal streaming tile with crisp WATCH IT white lettering and red accents, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"WATCH IT\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/watchit-v1.webp"
+  },
+  {
+    "key": "gemini",
+    "name": "Gemini Pro",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Gemini Pro. High-end editorial 3D product mockup on a pearlescent silver studio surface, blue purple white accents, a polished pale-blue tile with the four-point blue-purple Gemini star, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Gemini Pro\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/gemini-v1.webp"
+  },
+  {
+    "key": "max",
+    "name": "ISHTIRAKI MAX",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: ISHTIRAKI MAX. High-end editorial 3D product mockup on a pearlescent silver studio surface, electric blue silver accents, a premium cobalt-blue subscription membership tile featuring the shop stacked-cards-plus emblem, holographic edges, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"ISHTIRAKI MAX\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/max-v1.webp"
+  },
+  {
+    "key": "adobe",
+    "name": "Adobe Creative Cloud",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Adobe Creative Cloud. High-end editorial 3D product mockup on a pearlescent silver studio surface, red rainbow white accents, a polished white tile with the red Adobe A and a restrained rainbow light arc, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Adobe Creative Cloud\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/adobe-v1.webp"
+  },
+  {
+    "key": "disney",
+    "name": "Disney+",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Disney+. High-end editorial 3D product mockup on a pearlescent silver studio surface, deep blue cyan accents, a deep blue streaming tile with the white Disney+ wordmark and curved arc, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Disney+\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/disney-v1.webp"
+  },
+  {
+    "key": "anghami",
+    "name": "Anghami Plus",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: Anghami Plus. High-end editorial 3D product mockup on a pearlescent silver studio surface, violet lavender accents, a violet music tile with the Anghami circular sound-wave mark, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"Anghami Plus\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/anghami-v1.webp"
+  },
+  {
+    "key": "osn",
+    "name": "OSN+",
+    "prompt": "Use case: ads-marketing. Final landscape 16:9 digital subscription product artwork for mobile store. Service: OSN+. High-end editorial 3D product mockup on a pearlescent silver studio surface, pink orange charcoal accents, a charcoal streaming tile with the white OSN+ wordmark, soft contact shadows, minimal sculptural shapes. Large perfectly legible exact headline \"OSN+\" in upper-left, object on right, elegant clean sans serif black headline. At bottom-left small exact Arabic brand name \"اشتراكي بلس\", alongside a miniature blue stacked-cards-plus shop emblem matching the provided reference logo. Reference image is supporting brand identity only. Keep text inside 10% safe margins. Service symbol/name dominant; shop logo small. No price, no duration, no fake badges, no buttons, no UI, no extra text. Premium realistic materials, readable at 180 pixels wide.",
+    "output": "public/images/subscriptions/osn-v1.webp"
+  }
+]
